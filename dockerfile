@@ -5,5 +5,5 @@ CMD node /docker1/app.js
 
 docker --version
 node app.js
-docker built -t foldername .
+docker build -t foldername .
 docker images
